@@ -1,0 +1,2 @@
+1. 點擊  jarexe.exe執行
+2. taskkill -F -T -IM  jarexe.exe 結束 (cd路徑自己設)

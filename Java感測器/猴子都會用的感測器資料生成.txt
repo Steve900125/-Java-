@@ -1,0 +1,2 @@
+1. 點擊 sensor.exe 執行
+2. taskkill -F -T -IM sensor.exe 結束 (cd路徑自己設)
